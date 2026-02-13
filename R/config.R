@@ -5,7 +5,7 @@ search_terms <- list(
   titles = c("data scientist", "data analyst"),
   location = "England",
   salary_min = 40000,
-  max_results_per_query = 20,
+  max_results_per_query = 100,
   posted_within_days = 7
 )
 
@@ -46,3 +46,4 @@ preferred_sectors <- c(
   "health", "pharma", "medical", "clinical",
   "consulting", "analytics"
 )
+
